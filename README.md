@@ -1,2 +1,2 @@
 # Superstore_data_project
-Cleaning, analyzing and visualizing data from a retail store sales data
+Cleaning, analyzing and visualizing sales data from a retail store
